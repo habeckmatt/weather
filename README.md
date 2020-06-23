@@ -11,7 +11,7 @@ API to retrieve information based upon the weather. The lacking pieces of this p
 due to my focus on the React piece of the project.
 
 # Screenshots
-Include logo/demo screenshot etc.
+![Weather App Homepage](weather_api_thumbnail.jpg)
 
 # Tech/framework used
 **Built with**  
