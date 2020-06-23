@@ -53,3 +53,6 @@ It retrieves this data from an API and displays it in the UI.
 
 # Installation
 npm install weather
+
+# License
+MIT © Matt Habeck
