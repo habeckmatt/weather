@@ -15,7 +15,7 @@ Include logo/demo screenshot etc.
 
 # Tech/framework used
 **Built with**  
-&nbsp;&nbsp;[React](https://github.com/facebook/react)
+&nbsp;&nbsp;[-React](https://github.com/facebook/react)
 
 # Features
 The main feature of this app is the ability of a user to search for weather for a particular city.
