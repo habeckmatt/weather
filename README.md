@@ -14,7 +14,7 @@ due to my focus on the React piece of the project.
 Include logo/demo screenshot etc.
 
 # Tech/framework used
-**Built with**
+**Built with**  
 &nbsp;&nbsp;[React](https://github.com/facebook/react)
 
 # Features
