@@ -1,6 +1,6 @@
 # Weather Finder
-This app allows a user to input a city and a country to recieve information about the local weather.
-The data the user recieves includes:
+This app allows a user to input a city and a country to receive information about the local weather.
+The data the user receives includes:
 &nbsp;&nbsp;-Temperature  
 &nbsp;&nbsp;-Humidity  
 &nbsp;&nbsp;-Description of the current conditions
@@ -49,7 +49,7 @@ It retrieves this data from an API and displays it in the UI.
     );
     }
 
-export default Weather;
+    export default Weather;
 
 # Installation
 npm install weather
